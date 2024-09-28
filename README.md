@@ -84,7 +84,7 @@
 
 - 🔭 Currently working on **Samvaad**
 - 🌱 Learning **Microservices, Docker, Kubernetes, NestJS CLI**
-- 👯 Looking to collaborate on **Robust backend applications**
+- 👯 Looking to collaborate on creating **Robust backend applications**
 - 💬 Ask me about **NestJS, MERN, GraphQL, AWS**
 - ⚡ Fun fact: **I kinda like to get stuck on errors :)**
 
